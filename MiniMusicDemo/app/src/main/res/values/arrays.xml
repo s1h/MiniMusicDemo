@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="res_names">
+        <item>http://sc1.111ttt.com/2015/5/08/15/101151853006.mp3</item>
+        <item>http://sc.111ttt.com/up/mp3/274171/34ECE9361DC012C16D6E8CFED9106BC7.mp3</item>
+        <item>http://sc1.111ttt.com/2015/1/04/15/97151430494.mp3</item>
+        <item>http://sc.111ttt.com/up/mp3/281551/638BBA4787B04033972E76A731090242.mp3</item>
+        <item>http://sc.111ttt.com/up/mp3/156353/1927317224CE24BD854075936C35CB75.mp3</item>
+        <item>http://sc1.111ttt.com/2015/1/11/22/104221334544.mp3</item>
+        <item>http://file.bmob.cn/M03/7F/F0/oYYBAFdFYh-AE_J1AI_wXc_rRqI724.mp3</item>
+        <item>http://file.bmob.cn/M03/01/1F/oYYBAFb4h0uAQLufAE8BpAeKTGE542.mp3</item>
+        <item>http://file.bmob.cn/M03/80/B6/oYYBAFdHmiWABL4BADxZu1-oiaw235.mp3</item>
+        <item>http://file.bmob.cn/M03/46/32/oYYBAFcfB32AJzVZAFK420C4ZHM831.mp3</item>
+        <item>http://file.bmob.cn/M03/46/31/oYYBAFcfBwaAKJ4xAE6zxHaI3uM740.mp3</item>
+        <item>http://file.bmob.cn/M03/19/96/oYYBAFcEqXiAEqtYADz8HHZWiM4012.mp3</item>
+    </string-array>
+    <string-array name="dis_names">
+        <item>理想三旬 - 陈鸿宇</item>
+        <item>Звезда - Макsим</item>
+        <item>你就是我最想要到丫头 - 赵照</item>
+        <item>当爱已成往事 - 胡彦斌</item>
+        <item>忽然 - 李志</item>
+        <item>成都 - 赵雷</item>
+        <item>意外 - 薛之谦</item>
+        <item>小孩 - 薛之谦</item>
+        <item>时光倒回 - 郑恺</item>
+        <item>一个人的北京 - 好妹妹乐队</item>
+        <item>可不可以爱我 - 卢学睿</item>
+        <item>陪你度过漫长的岁月 - 陈奕迅</item>
+    </string-array>
+</resources>

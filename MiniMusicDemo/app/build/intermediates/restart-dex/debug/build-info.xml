@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="6676346326735"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="212" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="35" />
+    <task
+        name="verifier"
+        duration="32" />
+
+    <artifact
+        location="/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="6443206982367" >
+        <artifact
+            location="/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="6676346326735"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

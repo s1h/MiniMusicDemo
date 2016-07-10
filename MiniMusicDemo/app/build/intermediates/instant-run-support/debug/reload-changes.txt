@@ -1,0 +1,16 @@
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$array$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$bool$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$menu$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$string$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$id$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$attr$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$integer$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$dimen$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$drawable$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$color$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$layout$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$style$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$styleable$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$anim$override.class
+CHANGED,/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/sunhang/sxh/minimusicdemo/R$mipmap$override.class

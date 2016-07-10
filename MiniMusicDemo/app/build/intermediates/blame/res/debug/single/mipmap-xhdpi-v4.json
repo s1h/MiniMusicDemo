@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/landscape_player_btn_pre_press.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/landscape_player_btn_pre_press.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/cd.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/cd.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/landscape_player_btn_pause_normal.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/landscape_player_btn_pause_normal.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/handle.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/handle.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/icon_float_music_player.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/icon_float_music_player.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/landscape_player_btn_next_press.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/landscape_player_btn_next_press.png"
+    },
+    {
+        "merged": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/landscape_player_btn_play_press.png",
+        "source": "/home/sxh/AndroidStudioProjects/MiniMusicDemo/app/src/main/res/mipmap-xhdpi/landscape_player_btn_play_press.png"
+    }
+]
